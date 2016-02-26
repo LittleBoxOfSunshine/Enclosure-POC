@@ -1,0 +1,4 @@
+/bin/*
+/example
+/docs/*
+.idea
